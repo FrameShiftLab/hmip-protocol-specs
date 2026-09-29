@@ -105,6 +105,10 @@ The information contained herein was gathered through:
 
 This project is non-commercial, independent, and unaffiliated with, sponsored by, or endorsed by eQ-3 AG. *Homematic IP® is a registered trademark of eQ-3 AG.*
 
+### AI Assistance Disclosure
+
+Large Language Models (including Anthropic Claude) were utilized as technical tools in this research effort for code synthesis, protocol documentation formatting, and structural archaeology. All analysis, reverse-engineered specifications, and byte-level layouts were independently reviewed, validated against physical hardware, and verified by human contributors.
+
 ## License
 
 - **Documentation & Specifications:** [CC BY-NC-SA 4.0](LICENSE) (Attribution-NonCommercial-ShareAlike 4.0 International)
